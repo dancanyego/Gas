@@ -91,4 +91,4 @@ the images and icon are at:
 
  **Dancan yego**
  ## special thanks to 
- **Denis Vreshtazi **
+ **Denis Vreshtazi**
