@@ -89,5 +89,6 @@ the images and icon are at:
      
 ## Authors
 
- **Denis Vreshtazi**
- **Dancan yego **
+ **Dancan yego**
+ ## special thanks to 
+ **Denis Vreshtazi **
